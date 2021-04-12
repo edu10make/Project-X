@@ -49,4 +49,7 @@ data analysis, machine learning
 * SMS_received: 환자에게 보낸 문자
 * No-show: 예약취소
 
+## 학습 지원
+* 머신러닝, 딥러닝 https://www.youtube.com/playlist?list=PLS8gIc2q83OjStGjdTF2LZtc0vefCAbnX&ab_channel=NeoWizard
+* 텐서플로우 https://www.youtube.com/watch?v=AHdGc4nR5f4&list=PLS8gIc2q83OhM0RTktKDitgZGX5dHo7Vs&ab_channel=NeoWizard
 
