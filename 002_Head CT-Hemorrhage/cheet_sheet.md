@@ -40,3 +40,7 @@ image classification, deep learning
 * 정상뇌 사진 100개
 * 뇌출혈 사진 100개
 * 뇌출혈 여부 데이터: labels.csv
+
+## 학습 지원
+* 머신러닝, 딥러닝 https://www.youtube.com/playlist?list=PLS8gIc2q83OjStGjdTF2LZtc0vefCAbnX&ab_channel=NeoWizard
+* 텐서플로우 https://www.youtube.com/watch?v=AHdGc4nR5f4&list=PLS8gIc2q83OhM0RTktKDitgZGX5dHo7Vs&ab_channel=NeoWizard
