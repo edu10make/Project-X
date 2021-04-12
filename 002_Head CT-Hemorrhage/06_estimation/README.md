@@ -1,6 +1,7 @@
 {"target":"student", "type":"mission","id":"6","description":"estimation"}
 ## 모델 평가
 * train, validation, test의 accuracy를 구하고 history를 이용하여 모델의 accuracy와 loss에 대한 그래프를 그리고 평가하라.
+* accuracy와 loss 외의 그래프를 추가하여 결과를 설명하라. (optional)
 * 그래프를 해석하고 결과를 설명하는 발표를 하라.
 
 ## 결과물
