@@ -9,6 +9,17 @@ CT이미지를 학습하여 뇌출혈인지 판단하라.
 python, numpy, pandas, matplotlib, machine learning
 ## 획득 Badge
 image classification, deep learning
+## 매직에코 요구 배지 (feat. https://github.com/AMAI-GmbH/AI-Expert-Roadmap/)
+* depth1: Fundamentals > Basics > Python Programming > Python Basics
+* depth1: Fundamentals > Basics > Python Programming > Python Basics > Important libraries > Numpy, Pandas
+* depth2: Data Scientist > Visualization > Python > Matplotlib, seaborn
+* depth3: Machine Learning > General
+* depth3: Machine Learning > Important libraries > scikit-learn
+* depth4: Deep Learning > Neural Networks
+* depth4: Deep Learning > Architectures > CNN
+* depth4: Deep Learning > Tools > Tensorflow, PyTorch
+
+
 ## 수준구분: AI/Data분석/Edu4, AI/모델개발/Edu4, AI/AIOps/Edu4
 ## 지식스킬: python, Jupyter Notebook, tensorflow, numpy, pandas, scikit-learn, CNN
 ## tech skill
