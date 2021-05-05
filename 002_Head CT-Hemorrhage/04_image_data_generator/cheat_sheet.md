@@ -15,5 +15,7 @@ ImageDateGenerator의 발표 동영상
 ImageDataGenerator
 
 ## 평가
+* (추가) 이미지를 가공하여 데이터로 사용하였는가?
+* (추가) train에 대해서만 가공하였는가?
 * ImageDateGenerator를 사용하였는가?
 * 발표를 잘할 수록 높은 점수 부여
